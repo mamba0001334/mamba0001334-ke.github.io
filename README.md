@@ -13,7 +13,10 @@
 <body>This upcoming November 1st on a friday Kamala Harris is coming to make her final compaign in Wisconsin. Has currently not been revealed of the location. Donald Trump is also planning to come to Wisconsin on friday as well.   </body>
 
 <h3>A Race to be District Attorney</h3>
-<p>Kenosha county has the only contested district attorney race in Wisconsin currently. The canidates being Democrat Carli McNeill and Republican Xavier Solis. The previous DA for about 7 years Mike Graveley is retiring from the position. </p>
+<p>Kenosha county has the only contested district attorney race in Wisconsin currently. The canidates being Democrat Carli McNeill and Republican Xavier Solis. The previous DA Mike Graveley is retiring thats why he's not running for reelection. </p>
 
-<h3></h3>
-<p><cite>"Here at the Kenosha News we've also recieved some letters from a week prior"</cite> stated the editor of the Kenosha Newsletter. Here at the Kenosha Newsletter many are worried that they will be the next building to be set on fire thats why they are working close with the police department to prevent that. At the Kenosha Newsletter we'll keep you updated stay posted for new updates.</p>
+<h3>Kenosha Pumpkin Patchs Going Bad </h3>
+<p>In recent events several farmers have reported their pumpkin patchs aren't flourishing like they had in past years. Joe Jame says and I qoute:
+                        <blockqoute><i>This has been my worst season in the whole ten years i've done this. The pumpkins     barely even make it to full term and if they do they start to go bad a week later.</i></blockqoute> Other pumpkin patch owers reported the same thing. Its suspected that theres a virus spreeding through the pumkins.</p>
+                        
+
