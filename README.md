@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
-        <title> The Fire In Least Expected Places </title>
+        <h1>Whats New in Kenosha</h1>
+        <h3>The Fire In Least Expected Places</h3>
         <meta charset="UTF-8">
         <meta name ="viewport" content="width = device-width,initial-scale=1.0">
         <meta name ="author" content="Kira Zamora">
