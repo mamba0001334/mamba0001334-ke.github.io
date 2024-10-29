@@ -6,8 +6,8 @@
         <meta charset="UTF-8">
         <meta name ="viewport" content="width = device-width,initial-scale=1.0">
         <meta name ="author" content="Kira Zamora">
-        <meta name ="keywords" content="fire, fire station, firefighters , burning, burned, kenoosh fire, fire kenosha, police, police department, police fire">
-        <meta name ="desciption" content="Keeping Up With the Kenosha News">
+        <meta name ="keywords" content="kenosha news,news kenosha, wisconsin, election, destrict attorney election , kenosha county, campaign, kamala harris, donald trump, pumpkins, pumpkin patches, district attorney, xavier solis, carli mcneill, mike graveley, mike graveley retirement,">
+        <meta name ="desciption" content="Keeping Up With the Kenosha News, final campaign wisconsin,">
     </head>
 </html>
 <body>This upcoming November 1st on a friday Kamala Harris is coming to make her final compaign in Wisconsin. Has currently not been revealed of the location. Donald Trump is also planning to come to Wisconsin on friday as well.   </body>
