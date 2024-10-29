@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
-        <h1>Whats New in Kenosha</h1>
-        <h3>The Fire In Least Expected Places</h3>
+        <h1>The Battle of the Canidates inthe 2024 election</h1>
+        <h3></h3>
         <meta charset="UTF-8">
         <meta name ="viewport" content="width = device-width,initial-scale=1.0">
         <meta name ="author" content="Kira Zamora">
